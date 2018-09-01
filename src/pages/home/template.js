@@ -77,11 +77,6 @@ class HomeTemplate extends Component {
             <Github details={details} username={username} repos={repos} />
           )}
         </div>
-        <div className={classes.watermark}>
-          <a href="https://github.com/PHNoble/defaultprofilesite" className={classes.attribution}>
-            Created by: https://github.com/PHNoble/defaultprofilesite
-          </a>
-        </div>
       </div>
     );
   }
@@ -92,28 +87,29 @@ const styles = theme => ({
     flex: 1,
     display: "flex",
     flexDirection: "row",
-    padding: 10
+    padding: 10,
+    backgroundColor: '#000'
   },
   leftContainer: {
     display: "flex",
-
     marginLeft: 10
   },
   rightContainer: {
     flex: 2,
-    marginRight: 10
+    marginRight: 10,
+    background: '#000'
   },
   profilePaper: {
     flex: 1,
     margin: 10,
     height: "100%",
-    backgroundColor: "#EDEDED"
+    backgroundColor: "rgb(252, 252, 252)"
   },
   imgNameContainer: {
     position: "relative",
     textAlign: "left",
     width: "100%",
-    height: 200,
+    height: 215,
     backgroundImage: `url(${ProfilePicture})`,
     backgroundRepeat: "no-repeat",
     backgroundSize: "contain"

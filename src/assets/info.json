@@ -1,75 +1,54 @@
 {
-    "name": "Paul Noble",
+    "name": "Parker Pfaff",
     "position": "Software Engineer",
     "home": "Blacksburg, VA",
-    "email": "npaul98@vt.edu",
-    "github": "PHNoble",
-    "phone": "(757)775-1700",
+    "email": "parkerp1@vt.edu",
+    "github": "parkpfaf76",
+    "phone": "(434)907-8704",
     "skills": [
-        "React/React-native",
-        "Leadership",
-        "Microsoft Office",
-        "Design"
-
+        "ReactJS/React-native",
+        "Leadership"
     ],
     "programing_languages": [
         {
-            "language": "Javascript",
-            "experience": 70
-        },
-        {
             "language": "Java",
-            "experience": 60
+            "experience": 80
         },
         {
             "language": "Python",
-            "experience": 20
+            "experience": 60
+        },
+        {
+            "language": "Javascript",
+            "experience": 50
+        },
+        {
+            "language": "C++",
+            "experience": 45
         },
         {
             "language": "C",
-            "experience": 20
-        },
-        {
-            "language": "Swift",
-            "experience": 10
+            "experience": 40
         }
     ],
     "experience": [
         {
-            "title": "Lead Developer",
+            "title": "Undergraduate Teaching Assistant",
+            "organization": "Virginia Tech",
+            "dates": {
+                "start": "January 2017",
+                "end": "Present"
+            },
+            "description": "Responsible for attending lectures, hosting office hours, assisting students with programming assignments, and grading"
+        },
+        {
+            "title": "React-Native Developer",
             "organization": "Outlit inc.",
             "dates": {
-                "start": "August 2017",
+                "start": "January 2017",
                 "end": "August 2018"
             },
-            "description": "Led a team of 5 mobile and web developers to deliver and iterate quickly (website can be found at Outlitapp.com). Unfortunately the startup ended up failing as we could not secure funding for us to continue running, but we ended up creating a product we are proud of. I'm still under an NDA for the project so no media relating to the project is available, other than the website."
-        },
-        {
-            "title": "IT College to Corporate Intern",
-            "organization": "The Vanguard Group",
-            "dates": {
-                "start": "May 2018",
-                "end": "July 2018"
-            },
-            "description": "Worked in the International Corporate Services (ICS) branch of Vanguard to develope an AWS solution for ingesting and delivering website user data to corporate analysts. AWS technologies used include: AWS Elastic Map Reduce (Using the Hadoop filesystem), AWS EC2, AWS Cloud formation, AWS Buckets, and AWS security rules/profiles"
-        },
-        {
-            "title": "IT TLP Intern",
-            "organization": "Optum/United Health Group",
-            "dates": {
-                "start": "May 2017",
-                "end": "August 2017"
-            },
-            "description": "Worked in a team of interns developing a mechanism of drug delivery for disaster relief scenarios with a remote drone and mobile application. Developed an API with node that interfaced with a mobile and webapp to command a remote drone. Technologies used: React Native and MEAN stack."
-        },
-        {
-            "title": "Research Intern",
-            "organization": "NASA, Langley",
-            "dates": {
-                "start": "December 2015",
-                "end": "May 2016"
-            },
-            "description": ""
+            "description": "Mobile application startup for creating and locating events around you. Startup qualified for the RAMP accelerator program in Roanoke Virginia."
         }
     ],
     "education": [
@@ -77,23 +56,8 @@
             "award": "Bachelors of Science: Computer Science",
             "organization": "Virginia Tech",
             "dates" :{
-                "start": "August 2016"
-            },
-            "description": ""
-        },
-        {
-            "award": "Minor in Entrepreneurship and New Venture Growth",
-            "organization": "Virginia Tech",
-            "dates" :{
-                "start": "August 2018"
-            },
-            "description": ""
-        },
-        {
-            "award": "Minor in Math",
-            "organization": "Virginia Tech",
-            "dates" :{
-                "start": "August 2018"
+                "start": "August 2016",
+                "end": "May 2020"
             },
             "description": ""
         }
@@ -101,12 +65,8 @@
     "projects": [
         {
             "title": "EduSmart",
-            "description": "Enterprise javaFX program made to help special education teachers track students behavior in the classroom. Project deployed and delivered to over 12 different special education schools in Virginia affecting 100s of educators. Integrates with these school systems existing projects. Licensed to Centra health and more to come."
-        },
-        {
-            "title": "StockHelper",
-            "description": "This project is in its early stages. We are working on developing a mobile application for iOS and Android to teach people about stocks and stock trading. We are targeting users he may not do much of their own research or don't know where to start with their research. We are in the ideation and design phase currently."
+            "description": "Created software that is currently licensed and used across 12 Centra Health special education schools in central Virginia to track and graph student behavioral data. This software has saved the Program Manager of Rivermont schools extensive time and resources every year having to manually create spreadsheets to manage the data."
         }
     ],
-    "bio": "Hi my name is Paul Noble and I am a current Computer Science student at Virginia Tech also pursuing a minors in Entrepreneurship and New Venture Growth and Math. I am interested in entrepreneurship, mobile developement, and data science. "
+    "bio": "My name is Parker Pfaff and I am currently a Junior in Computer Science at Virginia Tech. I am very interested in mobile and web development, and I am constantly pursuing my entreprenurial projects. I am currently seeking a summer internship in Software Development"
 }
